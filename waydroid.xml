@@ -1,7 +1,7 @@
-<!-- Forked from Anbox-halium/anbox-halium -->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Forked from Anbox-halium/anbox-halium -->
+  
   <remote  name="e"
            revision="v1-q"
            fetch="https://gitlab.e.foundation/" />
